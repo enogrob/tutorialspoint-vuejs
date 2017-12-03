@@ -19,7 +19,7 @@ VueJS Tutorial
 [x] VueJS - Overview
 [x] VueJS - Environment Setup
 [x] VueJS - Introduction
-[ ] VueJS - Instances
+[x] VueJS - Instances
 [ ] VueJS - Template
 [ ] VueJS - Components
 [ ] VueJS - Computed Properties

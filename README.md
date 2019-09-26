@@ -17,9 +17,9 @@ Solution Integrator Experienced - Certified by Ericsson
 VueJS Tutorial
 [x] VueJS - Home
 [x] VueJS - Overview
-[x] VueJS - Environment Setup
-[x] VueJS - Introduction
-[x] VueJS - Instances
+[ ] VueJS - Environment Setup
+[ ] VueJS - Introduction
+[ ] VueJS - Instances
 [ ] VueJS - Template
 [ ] VueJS - Components
 [ ] VueJS - Computed Properties
